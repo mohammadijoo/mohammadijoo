@@ -264,18 +264,6 @@ Key areas of interest:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadijoo&show_icons=true&hide_border=true" alt="Abolfazl Mohammadijoo GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadijoo&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Contact
 
 <table>
