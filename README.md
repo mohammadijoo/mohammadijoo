@@ -95,17 +95,69 @@ I have completed **100+ projects** for companies and individuals, taught many te
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white" />
+  <a href="https://mohammadijoo.ir/en/R" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R Programming" />
+  </a>
+  
+  <a href="https://mohammadijoo.ir/en/Cplusplus" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/C-Sharp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/python" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Java" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/GoLang" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Scala" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" alt="Scala" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Ruby" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Julia" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" alt="Julia" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Rust" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Perl" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white" alt="Perl" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Matlab-Simulink" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Haskell" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" alt="Haskell" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Fortran" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white" alt="Fortran" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Prolog" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Prolog-74283C?logoColor=white" alt="Prolog" />
+  </a>
+
+  <a href="https://mohammadijoo.ir/en/Lisp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Lisp-3FB68B?logoColor=white" alt="Lisp" />
+  </a>
 </p>
 
 ### Data Science, AI, and Machine Learning
