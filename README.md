@@ -39,7 +39,7 @@ I have completed **100+ projects** for companies and individuals, taught many te
       <strong>Self-Employed</strong><br/>
       <em>Programmer, Data Scientist, Machine Learning Expert - Tehran, Iran</em><br/><br/>
       Delivered 100+ projects for companies and individuals in Data Science, Machine Learning, DevOps, Software Development, and Web Development.
-      Also taught technical lectures and developed online educational products.
+      Also taught technical lectures and developed online educational products and earned nine FESTO industrial automation certifications in 2016.
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ I have completed **100+ projects** for companies and individuals, taught many te
     <td>
       <strong>Worcester Polytechnic Institute</strong><br/>
       <em>Research Assistant - Worcester, MA, USA</em><br/><br/>
-      Worked as a research assistant in Mechanical Engineering-related projects. Also lived in the USA for two and a half years and earned nine FESTO industrial automation certifications.
+      Worked as a research assistant in Mechanical Engineering-related projects. Also lived in the USA for two and a half years and worked as math tutor in Buffalo State College in 2012.
     </td>
   </tr>
   <tr>
