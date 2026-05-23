@@ -236,7 +236,7 @@ Key areas of interest:
 - Machine Learning and AI for engineering systems
 - Scientific computing and simulation
 - Full-stack educational technology platforms
-
+| Python | <progress value="95" max="100"></progress> 95% |
 ---
 
 ## Publication
