@@ -32,12 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://mohammadijoo.github.io/" target="_blank" rel="noopener noreferrer">
-    <strong>Visit My Portfolio </strong>
-  </a>
-</p>
-
 ---
 
 ## About Me
