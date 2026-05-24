@@ -22,6 +22,24 @@
 
 ---
 
+<p align="center">
+  <a href="https://mohammadijoo.github.io/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github.com/mohammadijoo/mohammadijoo.github.io/blob/main/assets/Abolfazl_Mohammadijoo_Portfolio.jpg"
+      alt="Abolfazl Mohammadijoo Portfolio Banner"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://mohammadijoo.github.io/" target="_blank" rel="noopener noreferrer">
+    <strong>Visit My Portfolio </strong>
+  </a>
+</p>
+
+---
+
 ## About Me
 
 I am a self-employed **Programmer, Data Scientist, and Machine Learning Expert** with experience across **Data Science, Machine Learning, DevOps, Software Development, and Web Development**.
